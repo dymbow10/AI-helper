@@ -1,0 +1,13 @@
+The recognized voice commands are:
+
+google: prompts an input for a google search
+
+youtube: prompts an input for a youtube search
+
+instagram: opens instagram
+
+facebook: opens facebook
+
+message: opens whatsapp web
+
+help/manual: opens this documentation file

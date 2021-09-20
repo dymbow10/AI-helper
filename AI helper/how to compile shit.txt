@@ -1,0 +1,3 @@
+1 -> open powershell/cmd
+2-> pyinstaller "file_name" -F -i "icon.ico"
+3-> GG
